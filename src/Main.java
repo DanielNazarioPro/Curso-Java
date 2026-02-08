@@ -1,6 +1,8 @@
 public class Main {
     public static void main (String[] args){
-
-        System.out.println("Olá mundo!");
+        // Sem quebra de linha ao final
+        System.out.print("Olá mundo!");
+        // Com quebra de linha ao final
+        System.out.println("Bom dia!");
     }
 }
