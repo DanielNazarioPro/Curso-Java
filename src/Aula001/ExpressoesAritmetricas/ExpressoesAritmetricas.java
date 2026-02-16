@@ -1,3 +1,5 @@
+package Aula001.ExpressoesAritmetricas;
+
 public class ExpressoesAritmetricas {
     // Expressões aritméticos
     // + -> adição

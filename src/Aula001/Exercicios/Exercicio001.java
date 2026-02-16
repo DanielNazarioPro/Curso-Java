@@ -1,3 +1,5 @@
+package Aula001.Exercicios;
+
 import java.util.Locale;
 
 public class Exercicio001 {

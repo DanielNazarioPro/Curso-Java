@@ -1,3 +1,5 @@
+package Aula001.DadosPrimitivos;
+
 import java.util.Locale;
 
 public class Dados {

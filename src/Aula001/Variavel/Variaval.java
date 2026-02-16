@@ -1,3 +1,5 @@
+package Aula001.Variavel;
+
 public class Variaval {
     public static void main(String[] args) {
         int idade = 25;
